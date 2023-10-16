@@ -5,7 +5,12 @@
     "version": "1.0.0",
     "assetBundlePatterns": [
       "**/*"
-    ]
+    ],
+    "extra": {
+      "eas": {
+        "projectId": "c0bd3f56-0e2a-48e1-8905-5ee66080a64b"
+      }
+    }
   },
   "name": "citas"
 }
